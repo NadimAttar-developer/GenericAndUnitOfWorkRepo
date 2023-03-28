@@ -1,0 +1,17 @@
+C:\Users\Nadim Attar\source\repos\CleanArchitecture\CleanArchitecture\src\Core\StartupCompany.API\StartupCompany.DataAccess\bin\Debug\net7.0\StartupCompany.DataAccess.deps.json
+C:\Users\Nadim Attar\source\repos\CleanArchitecture\CleanArchitecture\src\Core\StartupCompany.API\StartupCompany.DataAccess\bin\Debug\net7.0\StartupCompany.DataAccess.runtimeconfig.json
+C:\Users\Nadim Attar\source\repos\CleanArchitecture\CleanArchitecture\src\Core\StartupCompany.API\StartupCompany.DataAccess\bin\Debug\net7.0\StartupCompany.DataAccess.dll
+C:\Users\Nadim Attar\source\repos\CleanArchitecture\CleanArchitecture\src\Core\StartupCompany.API\StartupCompany.DataAccess\bin\Debug\net7.0\StartupCompany.DataAccess.pdb
+C:\Users\Nadim Attar\source\repos\CleanArchitecture\CleanArchitecture\src\Core\StartupCompany.API\StartupCompany.DataAccess\bin\Debug\net7.0\StartupCompany.Domain.dll
+C:\Users\Nadim Attar\source\repos\CleanArchitecture\CleanArchitecture\src\Core\StartupCompany.API\StartupCompany.DataAccess\bin\Debug\net7.0\StartupCompany.Domain.pdb
+C:\Users\Nadim Attar\source\repos\CleanArchitecture\CleanArchitecture\src\Core\StartupCompany.API\StartupCompany.DataAccess\obj\Debug\net7.0\StartupCompany.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Nadim Attar\source\repos\CleanArchitecture\CleanArchitecture\src\Core\StartupCompany.API\StartupCompany.DataAccess\obj\Debug\net7.0\StartupCompany.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nadim Attar\source\repos\CleanArchitecture\CleanArchitecture\src\Core\StartupCompany.API\StartupCompany.DataAccess\obj\Debug\net7.0\StartupCompany.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Nadim Attar\source\repos\CleanArchitecture\CleanArchitecture\src\Core\StartupCompany.API\StartupCompany.DataAccess\obj\Debug\net7.0\StartupCompany.DataAccess.AssemblyInfo.cs
+C:\Users\Nadim Attar\source\repos\CleanArchitecture\CleanArchitecture\src\Core\StartupCompany.API\StartupCompany.DataAccess\obj\Debug\net7.0\StartupCompany.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Nadim Attar\source\repos\CleanArchitecture\CleanArchitecture\src\Core\StartupCompany.API\StartupCompany.DataAccess\obj\Debug\net7.0\StartupCompany.DataAccess.csproj.CopyComplete
+C:\Users\Nadim Attar\source\repos\CleanArchitecture\CleanArchitecture\src\Core\StartupCompany.API\StartupCompany.DataAccess\obj\Debug\net7.0\StartupCompany.DataAccess.dll
+C:\Users\Nadim Attar\source\repos\CleanArchitecture\CleanArchitecture\src\Core\StartupCompany.API\StartupCompany.DataAccess\obj\Debug\net7.0\refint\StartupCompany.DataAccess.dll
+C:\Users\Nadim Attar\source\repos\CleanArchitecture\CleanArchitecture\src\Core\StartupCompany.API\StartupCompany.DataAccess\obj\Debug\net7.0\StartupCompany.DataAccess.pdb
+C:\Users\Nadim Attar\source\repos\CleanArchitecture\CleanArchitecture\src\Core\StartupCompany.API\StartupCompany.DataAccess\obj\Debug\net7.0\StartupCompany.DataAccess.genruntimeconfig.cache
+C:\Users\Nadim Attar\source\repos\CleanArchitecture\CleanArchitecture\src\Core\StartupCompany.API\StartupCompany.DataAccess\obj\Debug\net7.0\ref\StartupCompany.DataAccess.dll

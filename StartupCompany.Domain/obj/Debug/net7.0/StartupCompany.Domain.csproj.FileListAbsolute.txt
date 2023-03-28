@@ -1,0 +1,12 @@
+C:\Users\Nadim Attar\source\repos\CleanArchitecture\CleanArchitecture\src\Core\StartupCompany.API\StartupCompany.Domain\bin\Debug\net7.0\StartupCompany.Domain.deps.json
+C:\Users\Nadim Attar\source\repos\CleanArchitecture\CleanArchitecture\src\Core\StartupCompany.API\StartupCompany.Domain\bin\Debug\net7.0\StartupCompany.Domain.dll
+C:\Users\Nadim Attar\source\repos\CleanArchitecture\CleanArchitecture\src\Core\StartupCompany.API\StartupCompany.Domain\bin\Debug\net7.0\StartupCompany.Domain.pdb
+C:\Users\Nadim Attar\source\repos\CleanArchitecture\CleanArchitecture\src\Core\StartupCompany.API\StartupCompany.Domain\obj\Debug\net7.0\StartupCompany.Domain.csproj.AssemblyReference.cache
+C:\Users\Nadim Attar\source\repos\CleanArchitecture\CleanArchitecture\src\Core\StartupCompany.API\StartupCompany.Domain\obj\Debug\net7.0\StartupCompany.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nadim Attar\source\repos\CleanArchitecture\CleanArchitecture\src\Core\StartupCompany.API\StartupCompany.Domain\obj\Debug\net7.0\StartupCompany.Domain.AssemblyInfoInputs.cache
+C:\Users\Nadim Attar\source\repos\CleanArchitecture\CleanArchitecture\src\Core\StartupCompany.API\StartupCompany.Domain\obj\Debug\net7.0\StartupCompany.Domain.AssemblyInfo.cs
+C:\Users\Nadim Attar\source\repos\CleanArchitecture\CleanArchitecture\src\Core\StartupCompany.API\StartupCompany.Domain\obj\Debug\net7.0\StartupCompany.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Nadim Attar\source\repos\CleanArchitecture\CleanArchitecture\src\Core\StartupCompany.API\StartupCompany.Domain\obj\Debug\net7.0\StartupCompany.Domain.dll
+C:\Users\Nadim Attar\source\repos\CleanArchitecture\CleanArchitecture\src\Core\StartupCompany.API\StartupCompany.Domain\obj\Debug\net7.0\refint\StartupCompany.Domain.dll
+C:\Users\Nadim Attar\source\repos\CleanArchitecture\CleanArchitecture\src\Core\StartupCompany.API\StartupCompany.Domain\obj\Debug\net7.0\StartupCompany.Domain.pdb
+C:\Users\Nadim Attar\source\repos\CleanArchitecture\CleanArchitecture\src\Core\StartupCompany.API\StartupCompany.Domain\obj\Debug\net7.0\ref\StartupCompany.Domain.dll
